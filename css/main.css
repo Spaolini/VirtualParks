@@ -155,6 +155,7 @@ background: #194834;
   top: 2732px;
   background: #194834;
 transform: matrix(-1, 0, 0, 1, 0, 0);
+overflow-x: hidden;
 }
 #timeline_ell{
   position: absolute;
@@ -207,6 +208,7 @@ width: 280px;
 height: 288px;
 left: 370px;
 top: 3085px;
+padding-bottom: 100px;
 }
 #parks_banner{
   position: absolute;
@@ -278,7 +280,7 @@ font-size: 24px;
 width: 95px;
 height: 29px;
 left: 4px;
-top: 533px;
+top: 510px;
 
 font-family: 'Cabin';
 font-style: normal;
@@ -292,7 +294,7 @@ line-height: 29px;
   width: 139px;
   height: 29px;
   left: 134px;
-  top: 533px;
+  top: 510px;
 
   font-family: 'Cabin';
   font-style: normal;
@@ -306,7 +308,7 @@ line-height: 29px;
   width: 100px;
   height: 29px;
   left: 308px;
-  top: 533px;
+  top: 510px;
 
   font-family: 'Cabin';
   font-style: normal;
@@ -320,7 +322,7 @@ line-height: 29px;
   width: 77px;
   height: 29px;
   left: 443px;
-  top: 533px;
+  top: 510px;
 
   font-family: 'Cabin';
   font-style: normal;
@@ -333,7 +335,7 @@ line-height: 29px;
   width: 96px;
   height: 29px;
   left: 555px;
-  top: 533px;
+  top: 510px;
 
   font-family: 'Cabin';
   font-style: normal;
@@ -373,7 +375,7 @@ top: 522px;
   position: absolute;
 width: 254px;
 height: 39px;
-left: 96px;
+left: 25px;
 top: 1190px;
 
 font-family: 'Cabin';
@@ -403,6 +405,7 @@ left: 220px;
 top: 387px;
 color: rgba(0,0,0,0.25);
 filter: drop-shadow(10px 10px 8px);
+padding-bottom: 150px;
 }
 #gallery_p1{
   position: absolute;
@@ -447,4 +450,32 @@ top: 831px;
 font-size: 24px;
 background-color: #2E5F4A;
 color:white;
+}
+html,body{
+  margin:0px;
+}
+#river_gallery{
+  position: absolute;
+  left:-20px;
+  top: 1270px;
+}
+#rush_gallery{
+  position: absolute;
+  left: 265px;
+  top:1270px;
+}
+#Mountain_gallery{
+  position: absolute;
+  left: 1170px;
+  top:1270px;
+}
+#Canyon_gallery{
+  position: absolute;
+  left:567px;
+  top: 1270px;
+}
+#AI_gallery{
+  position: absolute;
+  left: 860px;
+  top: 1270px;
 }
