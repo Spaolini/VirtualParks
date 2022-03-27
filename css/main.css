@@ -71,7 +71,7 @@ line-height: 39px;
 width: 545px;
 height: 39px;
 left: 148px;
-top: 2096px;
+top: 1950px;
 
 font-family: 'Cabin';
 font-style: normal;
@@ -84,7 +84,7 @@ line-height: 39px;
 width: 474px;
 height: 120px;
 left: 184px;
-top: 2253px;
+top: 2107px;
 font-family: 'Cabin';
 font-style: normal;
 font-weight: 400;
@@ -98,7 +98,7 @@ text-align: center;
 width: 360px;
 height: 39px;
 left: 958px;
-top: 2853px;
+top: 2707px;
 
 font-family: 'Cabin';
 font-style: normal;
@@ -111,7 +111,7 @@ line-height: 39px;
 width: 474px;
 height: 160px;
 left: 897px;
-top: 2999px;
+top: 2853px;
 
 font-family: 'Cabin';
 font-style: normal;
@@ -125,7 +125,7 @@ text-align: center;
 width: 180px;
 height: 60px;
 left: 330px;
-top: 2497px;
+top: 2351px;
 font-size: 24px;
 background-color: #2E5F4A;
 color:white;
@@ -135,7 +135,7 @@ color:white;
 width: 211px;
 height: 60px;
 left: 1030px;
-top: 3254px;
+top: 3108px;
 font-size: 24px;
 background-color: #2E5F4A;
 color:white;
@@ -145,14 +145,14 @@ color:white;
 width: 714px;
 height: 582px;
 left: 798px;
-top: 1980px;
+top: 1834px;
 background: #194834;
 }
 #gallery_rect{
   position: absolute;
   width: 714px;
   height: 582px;
-  top: 2732px;
+  top: 2586px;
   background: #194834;
 transform: matrix(-1, 0, 0, 1, 0, 0);
 overflow-x: hidden;
@@ -162,7 +162,7 @@ overflow-x: hidden;
   width: 175px;
   height: 175px;
   left: 1309px;
-  top: 1983px;
+  top: 1837px;
 z-index:1;
 }
 #canyon_home{
@@ -170,7 +170,7 @@ z-index:1;
 width: 544px;
 height: 576px;
 left: 862px;
-top: 2045px;
+top:1899px;
 z-index: 2;
 }
 #gallery_home{
@@ -178,14 +178,14 @@ z-index: 2;
 width: 500px;
 height: 550px;
 left: 106px;
-top: 2797px;
+top: 2651px;
 }
 #river{
   position: absolute;
 width: 264px;
 height: 288px;
 left: 106px;
-top: 2797px;
+top: 2651px;
 z-index: 2;
 }
 #Rush{
@@ -193,21 +193,21 @@ z-index: 2;
 width: 280px;
 height: 288px;
 left: 370px;
-top: 2797px;
+top: 2651px;
 }
 #mountain{
   position: absolute;
 width: 264px;
 height: 288px;
 left: 106px;
-top: 3085px;
+top: 2939px;
 }
 #canyon{
   position: absolute;
 width: 280px;
 height: 288px;
 left: 370px;
-top: 3085px;
+top: 2939px;
 padding-bottom: 100px;
 }
 #parks_banner{
@@ -215,7 +215,7 @@ padding-bottom: 100px;
 width: 430px;
 height: 124px;
 left: 167px;
-top: 3028px;
+top: 2882px;
 z-index: 2;
 
 }
@@ -224,7 +224,7 @@ z-index: 2;
 width: 359px;
 height: 40px;
 left: 203px;
-top: 3045px;
+top: 2899px;
 z-index: 2;
 font-family: 'Cabin';
 font-style: normal;
@@ -241,7 +241,7 @@ position: absolute;
 width: 175px;
 height: 175px;
 left: 43px;
-top: 2739px;
+top: 2593px;
 z-index: 1;
 box-sizing: border-box;
 transform: matrix(-1, 0, 0, 1, 0, 0);
@@ -466,16 +466,18 @@ html,body{
 }
 #Mountain_gallery{
   position: absolute;
-  left: 1170px;
-  top:1270px;
+  left:567px;
+  top: 1270px;
+
 }
 #Canyon_gallery{
   position: absolute;
-  left:567px;
+  left: 853px;
   top: 1270px;
+
 }
 #AI_gallery{
   position: absolute;
-  left: 860px;
-  top: 1270px;
+  left: 1147px;
+  top:1270px;
 }
